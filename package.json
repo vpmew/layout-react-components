@@ -1,0 +1,11 @@
+{
+  "name": "layout-react-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vpmew/layout-react-components.git",
+  "author": "vpmew <tyoma_slip@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "styled-components": "^4.3.1"
+  }
+}
